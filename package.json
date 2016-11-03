@@ -1,0 +1,14 @@
+{
+  "name": "word",
+  "version": "1.0.0",
+  "description": "get word explanation from collins dictionary",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luwenxu",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.76.0"
+  }
+}
